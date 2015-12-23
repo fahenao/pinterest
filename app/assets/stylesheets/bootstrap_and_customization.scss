@@ -7,10 +7,15 @@ $body-bg: #ecf0f1;
 $font-family-sans-serif: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-default-bg: white;
 $navbar-default-link-color: #7f8c8d;
-$navbar-default-brand-color: #c0392b; 
+$navbar-default-brand-color: #2ecc71; 
 $navbar-height: 45px;
 $jumbotron-bg: white;
-$brand-primary: #c0392b;
+$jumbotron-color: #34495e;
+$brand-primary: black;
+$btn-primary-bg: #e67e22;
+$pagination-active-bg: #2ecc71;
+$pagination-active-color: white;
+$pagination-color: #2ecc71;
 
 @import 'bootstrap';
 
